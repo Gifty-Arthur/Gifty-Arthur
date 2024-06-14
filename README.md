@@ -6,7 +6,7 @@
 </h1>
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdrYnVrM2hvYjNvbGdtcXh4bzdqcnE4azNsZHducHZkN2Vpcm5qdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.gif">
 
-<h3 align="center">A passionate software developer from Ghana 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Ghana</h3>
 
 <br/>
 
