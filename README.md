@@ -53,7 +53,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   
 
-  
+  ![snake gif](https://github.com/Gifty-Arthur/Gifty-Arthur/blob/output/github-contribution-grid-snake.gif)
   
 
   ### 🔝 Top Contributed Repo
