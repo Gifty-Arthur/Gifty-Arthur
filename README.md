@@ -52,6 +52,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
+  ![snake gif](https://github.com/Gifty-Arthur/Gifty-Arthur/blob/output/github-contribution-grid-snake.gif)
 
  
   
@@ -59,4 +60,7 @@
   ### 🔝 Top Contributed Repo
   
   ![](https://github-contributor-stats.vercel.app/api?username=Gifty-Arthur&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+
+
 
