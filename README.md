@@ -12,7 +12,7 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **Grocery Website**
+ 🔭 I’m currently working on **/**
  
  🌱 I’m currently learning **python, AWS**
 
@@ -36,7 +36,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git," /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git python," /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase" />
 </div>
 
