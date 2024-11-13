@@ -42,17 +42,16 @@
 
 <br/>
 <hr/>
+ <div align="center">
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Gifty-Arthur&show_icons=true&locale=en&layout=compact" alt="Gifty-Arthur" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gifty-Arthur&show_icons=true&locale=en&layout=compact" alt="Gifty-Arthur" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gifty-Arthur&" alt="Gifty-Arthur" /></p>
-
+ 
 
 
+</div>
 
+ <h2>🐍 My Contributions 🐍</h2>
   <div align="center">
-    <h2>🐍 My Contributions 🐍</h2>
     
   ![snake gif](https://github.com/Gifty-Arthur/Gifty-Arthur/blob/output/github-snake-dark.svg)
 </div>
