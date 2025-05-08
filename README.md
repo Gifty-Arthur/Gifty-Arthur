@@ -14,7 +14,7 @@
  
  🔭 I’m currently working on **/**
  
- 🌱 I’m currently learning **python, AWS**
+ 🌱 I’m currently learning **jave with spring boot**
 
 💬 Ask me about **Node.js, React, javascript... or anything [here](https://github.com/Gifty-Arthur/Gifty-Arthur/issues)**
 
